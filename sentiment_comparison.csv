@@ -1,0 +1,9 @@
+Sentiment,VADER_Sentiment,count
+Neutral,Neutral,23
+Positive,Positive,23
+Negative,Negative,14
+Positive,Negative,11
+Neutral,Positive,10
+Neutral,Negative,9
+Positive,Neutral,7
+Negative,Positive,3
